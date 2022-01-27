@@ -15,7 +15,6 @@ const {
 
 // import our credentials
 const credentials = require("./credentials.json");
-const { forEach } = require("lodash");
 
 //connect to firebase services
 initializeApp({
